@@ -7,7 +7,7 @@ To run your app, **first** open your terminal and change the directory to this p
 npm run dev
 ```
 
-## Significant Files and Folder Structure
+## Significant Files and Folders
 ### Files
 `tsconfig.json` - This contains all of configuration for the `tsc` compiler
 `package.json` - This contains all of  information about packages, scripts, author, and etc.
